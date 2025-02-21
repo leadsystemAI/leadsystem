@@ -2,7 +2,7 @@
 
 ![Aria Banner](docs/images/banner.png)
 
-Aria is an advanced AI agent specializing in creative content generation and multimodal interaction. It combines state-of-the-art language models with computer vision and audio processing to create a truly immersive and creative AI experience.
+leadsystem is an advanced AI agent specializing in creative content generation and multimodal interaction. It combines state-of-the-art language models with computer vision and audio processing to create a truly immersive and creative AI experience.
 
 ## ✨ Key Features
 
