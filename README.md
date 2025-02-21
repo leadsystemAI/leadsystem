@@ -1,4 +1,4 @@
-# 🎭 Aria - Creative AI Agent
+# 🎭 leadsystem - Creative AI Agent
 
 ![Aria Banner](docs/images/banner.png)
 
