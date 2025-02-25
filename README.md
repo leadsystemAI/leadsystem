@@ -34,8 +34,8 @@ leadsystem is an advanced AI agent specializing in creative content generation a
 
 ```bash
 # Clone the repository
-git clone https://github.com/ariaaidotfun/Aria.git
-cd Aria
+git clone https://github.com/leadsystemAI/leadsystem
+cd leadsystem
 
 # Install dependencies
 pip install -r requirements.txt
