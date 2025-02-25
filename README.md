@@ -121,7 +121,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🌟 Community
 
-- [Twitter](https://twitter.com/AriaAI)
+- [Twitter](https://x.com/LeadSystemsAi))
 
 ## 🔮 Future Roadmap
 
