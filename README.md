@@ -61,7 +61,7 @@ print(story)
 
 ### Music Composition
 ```python
-from aria import MusicGenerator
+from leadsystem import MusicGenerator
 
 composer = MusicGenerator()
 melody = composer.create_melody(
