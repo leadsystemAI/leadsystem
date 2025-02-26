@@ -118,7 +118,7 @@ class CreativeAgent:
         pass
 
     def _generate_response(self, text: str, emotion: Optional[str], context: Dict) -> str:
-        """
+        """ 
         Generate contextually and emotionally appropriate response.
         """
         prompt = self._build_prompt(text, emotion, context)
