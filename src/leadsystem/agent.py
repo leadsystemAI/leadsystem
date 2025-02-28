@@ -8,7 +8,7 @@ from .modules.music import MusicGenerator
 from .modules.art import ArtDirector
 from .modules.emotion import EmotionRecognizer
 from .memory import Memory
-
+ 
 @dataclass
 class AgentConfig:
     model_name: str = "gpt-3.5-turbo"
